@@ -1,6 +1,6 @@
 # Sentence Similarity
 
-This folder contains examples and best practices, written in Jupyter notebooks, for building
+This folder contains the examples and best practices, written in Jupyter notebooks, for building
 sentence similarity models. The [gensen](../../utils_nlp/models/gensen) and [pretrained
 embeddings](../../utils_nlp/models/pretrained_embeddings) utility scripts are used to speed up the
 model building process in the notebooks.  
